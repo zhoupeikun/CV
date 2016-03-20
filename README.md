@@ -1,4 +1,4 @@
-Hello, here is my CV, and I'll finished the markdown version this week.
+Hello, here is my CV, and I'll finished the markdown version and add two PDF versions this week.
 
 ===========
 
