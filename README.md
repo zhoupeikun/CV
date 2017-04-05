@@ -5,7 +5,7 @@
   - Blog: http://izpk.blogspot.fr
   - E-mail: zpkhhx@gmail.com
   - GitHub: github.com/zhoupeikun
-  - Objective: Seeking a six months’ internship related to *data science/analysis*
+  - Objective: Seeking a six months’ internship related to *data science*
   - Be available from Feb 2017 to Oct 2017
 
 ## Education
@@ -18,10 +18,10 @@
 
 ## Skills
 
-- Development: Android/Java, Front-end (JS, JQuery, Django), Shell, OCaml, SQL, VBA, Git
-- Data science: Apache Hadoop, Spark, Scala, Python(scikit-learn/xgboost), Matlab
+- Development: *Android/Java*, Front-end (JS, JQuery, Django), Shell, OCaml, *SQL*, *VBA*, *Git*
+- Data science: Apache Hadoop, Spark, Scala, *Python*(scikit-learn/XGboost), R，Matlab
 - PM： Proficient in prototype design(Axure) and product management.
-- Languages: English (fluent) French (professional) Chinese (native)
+- Languages: English (fluent) French (professionals) Chinese (native)
 - Interests: Body-building, Badminton, Swimming(Lifeguard), History, Tech-News
 
 
